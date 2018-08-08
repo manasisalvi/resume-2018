@@ -1,5 +1,16 @@
 Education-Software-Development
 ------------------------------
+*	Code Like a Girl (Workshop)
+	Technology: React
+	Melbourn, August 19, 2018
+
+*	Node Girls (Workshop)
+	Technology: NodeJS
+	Melbourne, August 9, 2018
+
+*	##Learn Ruby The Hard Way (Book by Zed A. Shaw)
+	Technology: Ruby
+	Melbourne, 2018
 
 *	##Web Developer Bootcamp (Online course – Udemy) 
 	Technology: HTML, CSS, Javascript
@@ -16,6 +27,10 @@ Education-Software-Development
 *	##Learn Ruby on Rails (Online course – Codeacademy)
 	Technology: Ruby, Rails
 	Melbourne, 2017-2018
+
+*	##Ruby Course (Online course - Codeacademy)
+	Technology: Ruby
+	Melbourne, 2017
 
 *	##Rails Girls (Workshop)
 	Technology: Ruby, Rails
