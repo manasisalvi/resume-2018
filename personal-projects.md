@@ -2,10 +2,15 @@ Personal-Projects
 -----------------
 *	##Personal website/blog: https://manasi.me
 
-*	##Currently working on: 
-	*	Eloquent Javascript (Book by Maijn Haverbeke)
+*	Website: https://theru.se
 
-	*	Setting up a home VPN on a Raspberry-Pi
+*	Color Game: https://github.com/pawgrmr/udemy-js
+
+*	Ticker Tracker: https://github.com/pawgrmr/tickertracker
+
+*	Learn Ruby the Hard Way: https://github.com/pawgrmr/learnrubythehardway
+
+
 
 
 
