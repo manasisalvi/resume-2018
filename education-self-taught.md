@@ -1,12 +1,16 @@
 Education-Self-Taught
 ------------------------------
-*	Code Like a Girl (Workshop)
-	Technology: React
-	Melbourne, August 19, 2018
-
-*	Node Girls (Workshop)
-	Technology: NodeJS, Express
-	Melbourne, August 9, 2018
+*	##Rails Girls Next (Workshop)
+	Technology: Ruby
+	Melbourne, 2018
+	
+*	##Practical Object-Oriented Design in Ruby: An Agile Primer (Book by Sandi Metz)
+	Technology: Ruby
+	Melbourne, 2018
+	
+*	##Introduction to React (Workshop)
+	Technology: Javascript, React
+	Melbourne, 2018
 
 *	##Learn Ruby The Hard Way (Book by Zed A. Shaw)
 	Technology: Ruby
